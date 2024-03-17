@@ -5,7 +5,7 @@ numpy
 streamlit_card
 datetime
 hugchat
-streamlit_geolocation
+streamlit-geolocation
 geopandas
 geopy
 shapely
