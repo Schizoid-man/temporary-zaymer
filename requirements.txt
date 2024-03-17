@@ -10,3 +10,4 @@ geopandas
 geopy
 shapely
 folium
+streamlit-folium
