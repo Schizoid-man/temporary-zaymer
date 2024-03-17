@@ -57,6 +57,7 @@ def handle_click(i, cards):
 
 def main():
     st.title("Memory Card Game")
+    st.write("Please tilt your phone horizontally")
     if "cards" not in st.session_state:
         st.session_state.cards = cards
 
