@@ -22,12 +22,12 @@ geolocator = Nominatim(user_agent="geoapiExercises")
 # Latitude & Longitude input
 Latitude = str(location['latitude'])
 Longitude = str(location['longitude'])
-try: 
- location2 = geolocator.reverse(Latitude+","+Longitude)
+
+location2 = geolocator.reverse(Latitude+","+Longitude)
  # Display
- st.write("Detected near : " ,location2)
-except:
- st.write("Click the location button to remove the error")
+st.write("Detected near : " ,location2)
+
+st.write("Click the location button to remove the error")
  
 
 
