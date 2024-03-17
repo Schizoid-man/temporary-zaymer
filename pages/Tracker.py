@@ -17,7 +17,7 @@ location = streamlit_geolocation()
 from geopy.geocoders import Nominatim
 
 # initialize Nominatim API 
-geolocator = Nominatim(user_agent="geoapiExercises")
+geolocator = Nominatim(user_agent="zaymer")
 
 # Latitude & Longitude input
 Latitude = str(location['latitude'])
