@@ -10,4 +10,3 @@ geopandas
 geopy
 shapely
 folium
-sqlite3
