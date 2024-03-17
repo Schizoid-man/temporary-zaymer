@@ -1,0 +1,13 @@
+streamlit
+hugchat==0.0.8
+pandas
+numpy
+streamlit_card
+datetime
+hugchat
+streamlit_geolocation
+geopandas
+geopy
+shapely
+folium
+sqlite3
