@@ -7,7 +7,7 @@ datetime
 hugchat
 streamlit-geolocation
 geopandas
-geopy
+geopy == 2.3.0
 shapely
 folium
 streamlit-folium
